@@ -37,6 +37,4 @@ Apply the Terraform changes to build the infrastructure:
 terraform apply
 ```
 
-## License
-
-These modules are made available under the Apache 2.0 license. Copyright © 2020 Silectis, Inc.
+to read - https://www.silect.is/blog/multi-cloud-vpn-terraform/
